@@ -1,2 +1,3 @@
 # chat-app
-my first repository  on git hub
+an attempt to make a chat app like whatsapp
+
